@@ -1,9 +1,6 @@
 # Computer-Connect-Game
 Simply made when I was bored. Feels Like connected to a random computer and execute remote commands :)
 
-THESE PROGRAM RUN ONLY ON WINDOWS
-SINCE I'M NOT HAVING MAC/LINUX I can't modify this
-
 syntax of program -> python modulename.py -u {username} -p {password(anything)}
 another way > python modulename.py --username {username} --password {password (anything) }
 
