@@ -1,6 +1,6 @@
 # Computer-Connect-Game
-syntax of program -> python modulename.py -u {username} -p {password(anything)}
-another way > python modulename.py --username {username} --password {password (anything) }
+syntax of program -> python computer.py -u {username} -p {password(anything)}
+another way > python computer.py --username {username} --password {password (anything) }
 
 You can put any password you like. But if you put a random username it will generate that random username and you are connected to that computer's shell or terminal.
 
